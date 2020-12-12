@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arp99&repo=arpan-portfolio&show_icons=true&theme=dracula)](https://github.com/arp99/arpan-portfolio)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arp99&repo=border-radius-previewer&show_icons=true&theme=dracula)](https://github.com/arp99/border-radius-previewer)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arp99&repo=Braille-translator&show_icons=true&theme=dracula)](https://github.com/arp99/Braille-translator)
 
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=arp99&hide=stars&count_private=true&show_icons=true&theme=dracula)](https://github.com/arp99)
