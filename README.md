@@ -1,18 +1,28 @@
-# Hi there 👋
+# Hi! I'm Arpan 👋
 
 
-<!-- **arp99/arp99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+![](https://visitor-badge.laobi.icu/badge?page_id=arp99)
+[![Github](https://img.shields.io/github/followers/arp99?label=Follow&style=social)](https://github.com/arp99)
 
-Here are some ideas to get you started:
+>About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<ul>
+    <li>🔭 I’m currently working on improving my coding skills</li>
+    <li>🌱 I’m currently learning Reactjs<span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="20" style="vertical-align:top; margin:2px"></span></li>
+    <li>👨🏻‍🔧 I love problem solving and work on different projects</li>
+    <li>📫 How to reach me:  <span><a href="https://www.linkedin.com/in/arpanmondal25/"><img src="./assets/linkedin.svg" style="height:15px;margin-right:5px" /></a>   <a href="mailto:arpan19991025@gmail.com"><img src="./assets/gmail.svg" style="height:15px;" /></a></span></li>
+</ul>
+<br/>
+
+# 🧰 Languages and Tools:
+<p align="left">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arp99&layout=compact&theme=dracula)](https://github.com/arp99)
 
