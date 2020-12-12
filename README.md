@@ -10,7 +10,7 @@
     <li>🔭 I’m currently working on improving my coding skills</li>
     <li>🌱 I’m currently learning Reactjs<span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="20" style="vertical-align:top; margin:2px"></span></li>
     <li>👨🏻‍🔧 I love problem solving and work on different projects</li>
-    <li>📫 How to reach me:  <span><a href="https://www.linkedin.com/in/arpanmondal25/"><img src="./assets/linkedin.svg" style="margin-right:5px" height ="15px" /></a>   <a href="mailto:arpan19991025@gmail.com"><img src="./assets/gmail.svg" height ="15px" /></a></span></li>
+    <li>📫 How to reach me:  <span><a href="https://www.linkedin.com/in/arpanmondal25/"><img src="./assets/linkedin.svg" height ="15px" margin-right="5px" /></a>   <a href="mailto:arpan19991025@gmail.com"><img src="./assets/gmail.svg" height ="15px" /></a></span></li>
 </ul>
 <br/>
 
