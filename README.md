@@ -17,10 +17,16 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arp99&layout=compact&theme=dracula)](https://github.com/arp99)
 
 # Projects:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arp99&repo=arpan-portfolio&show_icons=true&theme=dracula&show_owner=arpan)](https://github.com/arp99/arpan-portfolio)
+<a href="https://github.com/arp99/arpan-portfolio">
+    <img style = "height:140px" src="https://github-readme-stats.vercel.app/api/pin/?username=arp99&repo=arpan-portfolio&show_icons=true&theme=dracula&show_owner=arpan">
+</a>
+<a href="https://github.com/arp99/border-radius-previewer">
+    <img style = "" src="https://github-readme-stats.vercel.app/api/pin/?username=arp99&repo=border-radius-previewer&show_icons=true&theme=dracula&show_owner=arpan">
+</a>
+<a href="https://github.com/arp99/Braille-translator">
+    <img style = "" src="https://github-readme-stats.vercel.app/api/pin/?username=arp99&repo=Braille-translator&show_icons=true&theme=dracula&show_owner=arpan">
+</a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arp99&repo=border-radius-previewer&show_icons=true&theme=dracula&show_owner=arpan)](https://github.com/arp99/border-radius-previewer)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arp99&repo=Braille-translator&show_icons=true&theme=dracula&show_owner=arpan)](https://github.com/arp99/Braille-translator)
+# Stats:
 
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=arp99&hide=stars&count_private=true&show_icons=true&theme=dracula)](https://github.com/arp99)
