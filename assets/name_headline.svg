@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="501.572" viewBox="0 0 1920 501.572">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 183px;
+        font-family: Gabriola;
+        letter-spacing: 0.046em;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.221" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#031b49"/>
+      <stop offset="1" stop-color="#656af8"/>
+      <stop offset="1" stop-color="#bfbffb"/>
+      <stop offset="1" stop-color="#d406b4"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(0 -1.742)">
+    <g id="Group_2" data-name="Group 2">
+      <g id="Group_3" data-name="Group 3">
+        <path id="Path_1" data-name="Path 1" class="cls-1" d="M1920,613.828s-189.394,66.058-404.851,5.2S1139.837,407.073,847.928,397.45c-109.883-3.622-161.862,9.322-208.772,24.273-44.89,14.307-85.561,30.363-137.6,43.428-36.9,9.265-81.246,20.575-149.762,21.248C87.254,489,0,380.806,0,380.806V143.219H1920Z" transform="translate(0 -141.478)"/>
+        <text id="Hey_I_m_ARPAN" data-name="Hey, I&apos;m ARPAN" class="cls-2" transform="translate(771 178)"><tspan x="0" y="0">Hey, I&apos;m ARPAN</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
