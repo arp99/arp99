@@ -12,10 +12,10 @@
 ##
 
 ### Let's Connect ☕
-<a href="https://www.linkedin.com/in/arpanmondal25">
+<a href="https://www.linkedin.com/in/arpanmondal25" target="_blank">
   <img alt="arpan's Linkdein" width="100px" height="30px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/arpanmondal25">
+<a href="https://twitter.com/arpanmondal25" target="_blank" >
   <img alt="arpan's Twitter" width="100px" height="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
 <a href="https://github.com/arp99">
@@ -24,10 +24,10 @@
 <a href="mailto:arpan19991025@gmail.com">
   <img alt="arpan's codechef" width="100px" height="30px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
-<a href="https://www.hackerrank.com/arpan19991025?hr_r=1">
+<a href="https://www.hackerrank.com/arpan19991025?hr_r=1" target="_blank" >
   <img alt="arpan's hackerrank" width="130px" height="30px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
-<a href="https://www.codechef.com/users/babumoshai99">
+<a href="https://www.codechef.com/users/babumoshai99" target="_blank" >
   <img alt="arpan's codechef" width="120px" height="30px" src="https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
 </a>
 
