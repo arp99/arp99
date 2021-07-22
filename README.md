@@ -64,7 +64,8 @@
 <h3><b><samp>Github Stats</samp></b></h3>
 <p align="center" >
     <a href="https://github.com/arp99">
-        <img style="display:block; margin-bottom: 1rem" height="150px" src="https://github-readme-stats.vercel.app/api?username=arp99&hide=stars&count_private=true&show_icons=true&theme=dracula">
+        <img style="display:block;" height="150px" src="https://github-readme-stats.vercel.app/api?username=arp99&hide=stars&count_private=true&show_icons=true&theme=dracula">
+        <br>
         <img style="display:block; margin-bottom: 1rem" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=arp99&theme=dracula" />
         <img style="display:block; margin-bottom: 1rem" height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arp99&hide=html&layout=compact&langs_count=8&theme=dracula"/>
         <img style="display:block" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arp99&theme=dracula" />
