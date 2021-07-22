@@ -1,4 +1,5 @@
 ![alt text](./assets/name_headline.svg)
+
 ## <p><h3> A Frontend Developer, An Open Source Contributor and a lovely Person 😍</h3></p>
 
 ### ⚡ About Me:
