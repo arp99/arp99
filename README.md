@@ -3,10 +3,9 @@
 ## <p><h3> A Frontend Developer, An Open Source Contributor and a lovely Person 😍</h3></p>
 
 ### ⚡ About Me:
-- 👨🏻‍💻 <samp>Currently pursuing B.Tech in Computer Science and Engineering(2018-2022)
-- 👯 <samp>I’m looking to collaborate on projects that are using Reactjs
-- 💼 <samp>I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles.
-- 🎶 <samp> I love listening to Bengali music
+- 👨🏻‍💻 <samp>Currently Software Engineer at [apiwiz.io](https://www.apiwiz.io/)
+- 💼 <samp>I’m looking for exciting challenges to solve.
+- 🧁 <samp> I love eating sweets
 
 
 ##
