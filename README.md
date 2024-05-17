@@ -3,9 +3,9 @@
 ## <p><h3> A Frontend Developer, An Open Source Contributor and a lovely Person 😍</h3></p>
 
 ### ⚡ About Me:
-- 👨🏻‍💻 <samp>Currently Software Engineer at [apiwiz.io](https://www.apiwiz.io/)
-- 💼 <samp>I’m looking for exciting challenges to solve.
-- 🧁 <samp> I love eating sweets
+- 👨🏻‍💻 <samp>Currently Software Engineer at [Cleartrip](https://www.cleartrip.com/)
+- 💼 <samp>I’m looking out for Challenging Frontend Opportunities. Let's connect on LinkedIn
+- 🧁 <samp> Fun fact: I love eating bit too much sweets
 
 
 ##
